@@ -17,5 +17,7 @@ Stacked Column Chart: Sales segmented by fat content and outlet.
 Line Chart: Sales by outlet establishment type.
 Funnel Map: Sales distribution across locations.
 Matrix Card: Comprehensive view of all metrics by outlet type.
+
+
 Outcome:
 The dashboard provides a detailed and visually engaging representation of Blinkit's sales and operational data. It supports business stakeholders in identifying improvement areas, optimizing strategies, and driving customer satisfaction
